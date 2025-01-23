@@ -58,6 +58,43 @@
           color: #fff;
         }
     </style>
+    <style>
+      .games_list ul{
+        list-style: none;
+        display: flex;
+        flex-flow: wrap;
+        padding: 0;
+        margin: 0;
+      }
+      .games_list ul li{
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      .games_list ul .img{
+        max-height: 198px;
+        overflow: hidden;
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+      }
+      .games_list ul img{
+        max-width: 100%;
+      }
+      .games_list.container{
+        max-width: 100%;
+      }
+      .games_list ul h4{
+        font-size: 16px;
+        color: #fff;
+        margin-top: 10px;
+      }
+      @media (max-width: 768px) {
+        .iframe-default{
+          height: 250px !important;
+        }
+      }
+    </style>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-V7YPQSBBN3"></script>
     <script>
@@ -374,40 +411,3 @@
     </div>
   </body>
 </html>
-<style>
-  .games_list ul{
-    list-style: none;
-    display: flex;
-    flex-flow: wrap;
-    padding: 0;
-    margin: 0;
-  }
-  .games_list ul li{
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-  .games_list ul .img{
-    max-height: 198px;
-    overflow: hidden;
-    display: flex;
-    flex-flow: column;
-    align-items: center;
-    justify-content: center;
-  }
-  .games_list ul img{
-    max-width: 100%;
-  }
-  .games_list.container{
-    max-width: 100%;
-  }
-  .games_list ul h4{
-    font-size: 16px;
-    color: #fff;
-    margin-top: 10px;
-  }
-  @media (max-width: 768px) {
-    .iframe-default{
-      height: 250px !important;
-    }
-  }
-</style>
