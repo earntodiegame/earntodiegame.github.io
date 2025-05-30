@@ -1,2 +1,9 @@
-# MathsFrame
-Earn to Die Games
+In Earn To Die, players take control of a vehicle and progress in the apocalyptic wastelands. The game features countless The goal is to make it as far as possible, earn funds, and then spend them on upgrades for the next run to be more profitable.
+
+In the original Earn To Die, there are limited maps where vehicles must be unlocked via purchasing with funds. The vehicles are invincible and can be equipped with various weapons such as fuel tank expansions, boosters, and even roof-mounted weapons that automatically attack zombies.
+
+In Earn To Die 2, gameplay is generally unchanged though upgrade progressions can no longer be skipped. The player's vehicle is also damageable and may break in absurd fashions. If the engine catches fire, they will be unable to continue moving on. New upgrade categories, such as weight redistribution, have been introduced. Names for individual upgrades are completely eliminated, being replaced by the category name instead. Unlike the first game, vehicles are unlocked after completing a region, which is divided into multiple checkpoints, and older vehicles will be automatically disqualified upon arriving at the ultimate checkpoint.
+
+In Earn To Die 3, the game has received a vast overhaul. The player now has infinite fuel in both their vehicle and their boosters (the latter will always recharge on it's own when not in use). Maps are now endless, with the player being constantly chased by zombie motorists in massive trucks, motorcycles, all armed with homing rockets. The more progress they make, the better vehicles they can find. A few upgrade categories have been eliminated and in place, the vehicles already come heavily clad in armor. The removed categories can still be accessed in a different fashion, however.
+
+In Earn to Die Rogue new Feautures added! Now We can upgrade our character too.
